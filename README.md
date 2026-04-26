@@ -11,7 +11,7 @@
 
 ## 📌 Project Overview
 
-This project applies supervised machine learning to agriculture — predicting whether a crop needs irrigation based on **soil conditions** and **weather parameters**. The key challenge was an extreme class imbalance: only **0.4% of records** (129 out of 30,000) required irrigation.
+This project applies supervised machine learning to agriculture predicting whether a crop needs irrigation based on **soil conditions** and **weather parameters**. The key challenge was an extreme class imbalance: only **0.4% of records** (129 out of 30,000) required irrigation.
 
 ---
 
