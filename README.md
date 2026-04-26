@@ -31,7 +31,7 @@ This project applies supervised machine learning to agriculture predicting wheth
 
 ## ⚠️ Challenge: Extreme Class Imbalance
 
-With only 0.4% positive cases, a naive model would achieve 99.6% accuracy by always predicting "No Irrigation" — completely useless in practice.
+With only 0.4% positive cases, a naive model would achieve 99.6% accuracy by always predicting "No Irrigation" completely useless in practice.
 
 **Solution:** SMOTETomek (oversampling + boundary cleaning) + threshold tuning at 0.30 instead of default 0.50
 
