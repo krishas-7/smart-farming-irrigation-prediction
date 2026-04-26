@@ -1,6 +1,6 @@
 # 🌾 Smart Farming – Irrigation Prediction
 
-> ML-powered binary classification model to predict whether crops need irrigation — built to handle extreme class imbalance using SMOTETomek + XGBoost.
+> ML-powered binary classification model to predict whether crops need irrigation built to handle extreme class imbalance using SMOTETomek + XGBoost.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
